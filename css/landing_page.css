@@ -6,7 +6,7 @@
 
 body{
    
-    background-image: url(/images/t2.jpg);
+    background-image: url(images/t2.jpg);
    
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -218,20 +218,20 @@ nav ul li a:hover{
 
 @keyframes changeImage {
     0% {
-        background-image: url(..images/i5.jpg);
+        background-image: url(images/i5.jpg);
 
     }
    25% {
-    background-image: url(./images/i1.jpg);
+    background-image: url(images/i1.jpg);
     }
     50% {
-        background-image: url(../images/kedarnath.jpeg);
+        background-image: url(images/kedarnath.jpeg);
     }
     75% {
-        background-image: url(../images/i4.jpg);
+        background-image: url(images/i4.jpg);
     }
     100% {
-        background-image: url(../images/i5.jpg);
+        background-image: url(images/i5.jpg);
     }
     
 
